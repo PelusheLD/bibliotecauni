@@ -1,0 +1,7 @@
+.wrapper::-webkit-scrollbar {
+    width: 7px;
+}
+
+.wrapper::-webkit-scrollbar-thumb{
+    background: black;
+}

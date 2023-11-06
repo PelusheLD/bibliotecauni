@@ -1,0 +1,64 @@
+.morris-hover{position:absolute;z-index:1000}.morris-hover.morris-default-style{border-radius:10px;padding:6px;color:#666;background:rgba(255,255,255,0.8);border:solid 2px rgba(230,230,230,0.8);font-family:sans-serif;font-size:12px;text-align:center}.morris-hover.morris-default-style .morris-hover-row-label{font-weight:bold;margin:0.25em 0}
+.morris-hover.morris-default-style .morris-hover-point{white-space:nowrap;margin:0.1em 0}
+
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    text-decoration: none;
+    color: #428bca;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-left: -1px;
+}
+
+.botonTest{
+	background-color:#999;
+	border-radius:6px;
+	border:none;
+	coloe:#fff;
+	font-size:16px;
+	padding:16px 24px;
+	text-align:center;
+	text-transform:uppercase;
+	width:auto;
+	}
+.botonTest:hover{
+	background-color:#FFF;
+	color:#003;
+	}
+
+		#paginador{
+	clear:both;		
+	padding: 10px;
+	border-radius: 2px;
+	text-decoration: none;
+	width: auto;
+	heigth: 20px;
+	clear: none;
+	display:inline-block;
+	margin-left: 25%;
+			}
+			
+		#paginador a{
+			margin-top:10px;
+			display:inline-block;
+			zoom:2;
+			*display:inline;
+			vertical-align:baseline;
+			cursor:pointer;
+			text-decoration:none;
+			font:10px Arial;
+			padding:3px 5px 3px 5px;
+			color: white;
+			border-radius:2px;
+			background:#5bc0de;
+			}
+			
+			#paginador a:hover{
+				text-shadow:white;
+				text-decoration:none;
+				background:#5bc0de;
+			
+				}
